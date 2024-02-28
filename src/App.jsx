@@ -7,7 +7,6 @@ import machinary from "../src/assets/3.png";
 function App() {
   return (
     <>
-
       <div className="p-2 bg-gradient-to-b from-white to-yellow-100">
         <div className="flex justify-center">
           <img
@@ -174,7 +173,6 @@ function App() {
           </div>
         </div>
 
-      
         <div className="flex flex-col sm:flex-row bg-red-600 h-auto sm:h-16 justify-around mt-2 py-4 text-white px-2">
           <div className="capitalize sm:mb-0 mb-2 flex">
             <svg
@@ -195,7 +193,7 @@ function App() {
               Toll free <span className="font-bold">1800 8949 443</span>
             </div>
           </div>
-          <div className="sm:ml-4 flex my-2">
+          <div className="sm:ml-4 flex my-1">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="100"
